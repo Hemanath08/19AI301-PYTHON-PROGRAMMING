@@ -30,8 +30,7 @@ y = temp
 print("Swapped values are:",x,y)
 ```
 ## Output:
-![OUTPUT](./images/FILENAME.png)
-
+![EX 01](https://github.com/Hemanath08/19AI301-PYTHON-PROGRAMMING/assets/151807176/7bc8ab67-53ef-4e21-9798-d9be5f531be8)
 
 ## Result:
 The output for circulate the values of n variables is successfull.
